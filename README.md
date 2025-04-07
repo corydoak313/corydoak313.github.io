@@ -3,7 +3,7 @@
 Hi there!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Users/husband/Desktop/SCHOOL/CS499/images/smile_binary.png">
-  <source media="(prefers-color-scheme: light)" srcset="/Users/husband/Desktop/SCHOOL/CS499/images/white_binary.jpg">
-  <img alt="neon computer" src="/Users/husband/Desktop/SCHOOL/CS499/images/git_neon_blue.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="./Users/husband/Desktop/SCHOOL/CS499/images/smile_binary.PNG">
+  <source media="(prefers-color-scheme: light)" srcset="./Users/husband/Desktop/SCHOOL/CS499/images/white_binary.JPG">
+  <img alt="neon computer" src="./Users/husband/Desktop/SCHOOL/CS499/images/git_neon_blue.JPG">
 </picture>
