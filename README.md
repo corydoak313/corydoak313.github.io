@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="welcome_neon.png">
-  <source media="(prefers-color-scheme: light)" srcset="./Users/husband/Desktop/SCHOOL/CS499/images/white_binary.JPG">
+  <source media="(prefers-color-scheme: light)" srcset="welcome_light.png">
   <img alt="neon computer" src="./Users/husband/Desktop/SCHOOL/CS499/images/git_neon_blue.JPG">
 </picture>
 
