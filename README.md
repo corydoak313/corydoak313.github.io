@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="welcome_neon.png">
   <source media="(prefers-color-scheme: light)" srcset="welcome_light.png">
-  <img alt="neon github logo on computer" src="git_neon_blue.JPG">
+  <img alt="neon github logo on computer" src="git_neon_blue.jpg">
 </picture>
 
 <p>
